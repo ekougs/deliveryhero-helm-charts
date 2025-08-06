@@ -155,6 +155,7 @@ extraVolumes: []
 
 extraVolumeMounts: []
 
+initContainers: []
 extraContainers: []
 
 # updateStrategy -- Manage the daemonset update strategy
